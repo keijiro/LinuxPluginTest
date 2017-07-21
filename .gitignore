@@ -1,0 +1,5 @@
+*.swp
+/*.log
+/Plugin/build
+/Library/
+/Temp/
